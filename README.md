@@ -1,4 +1,4 @@
-# test_project 1
-Test project for Python learning
+# test_project 123
+Test project for Automatization learning
 
 Some info
