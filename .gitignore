@@ -6,7 +6,7 @@ __pycache__/
 # C extensions jhgjbjbbjk
 *.so
 
-# Distribution / packaging
+# Distribution
 .Python
 build/
 develop-eggs/
